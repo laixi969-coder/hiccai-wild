@@ -1,0 +1,4 @@
+interface:
+  display_name: "hiccai-wild｜年轻人脑洞与二创创意"
+  short_description: "从真实生活情境生成抽象脑洞、原创梗与可参与、可改编的传播玩法"
+  default_prompt: "使用 $hiccai-wild，基于我的项目生成三个机制不同的年轻化创意，并展开一个方向的首发成品、二创模板与小规模验证。"
