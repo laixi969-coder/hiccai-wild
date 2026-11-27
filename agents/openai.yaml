@@ -1,4 +1,4 @@
 interface:
-  display_name: "hiccai-wild｜年轻人脑洞与二创创意"
-  short_description: "从真实生活情境生成抽象脑洞、原创梗与可参与、可改编的传播玩法"
-  default_prompt: "使用 $hiccai-wild，基于我的项目生成三个机制不同的年轻化创意，并展开一个方向的首发成品、二创模板与小规模验证。"
+  display_name: "hiccai-wild v2.0｜年轻人现象级脑洞与二创操盘"
+  short_description: "融合 hiccai-baokuan 架构：从真实生活切片生成现象级抽象脑洞、原创梗、多载体成品、二创母版与视听商业提案"
+  default_prompt: "使用 $hiccai-wild，围绕我的项目按 Stage 0→4 工作流生成三个机制不同的现象级年轻化核弹切口，选定后展开载体成品、二创母版包、破圈扩散路径与红队 2.0 终稿。"
